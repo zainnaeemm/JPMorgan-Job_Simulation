@@ -41,6 +41,8 @@ The input parameters that should be taken into account for pricing are:
 
 Write a function that takes these inputs and gives back the value of the contract. You can assume there is no transport delay and that interest rates are zero. Market holidays, weekends, and bank holidays need not be accounted for. Test your code by selecting a few sample inputs.
 
+_________________________________________________________________________
+
 <h2>Task 3</h2>
 
 You have now moved to a new team assisting the retail banking arm, which has been experiencing higher-than-expected default rates on personal loans. Loans are an important source of revenue for banks, but they are also associated with the risk that borrowers may default on their loans. A default occurs when a borrower stops making the required payments on a debt.
@@ -54,6 +56,8 @@ The risk manager has collected data on the loan borrowers. The data is in tabula
 You should produce a function that can take in the properties of a loan and output the expected loss.
 You can explore any technique ranging from a simple regression or a decision tree to something more advanced. You can also use multiple methods and provide a comparative analysis.
 Submit your code below.
+
+_________________________________________________________________________
 
 <h2>Task 4</h2>
 
